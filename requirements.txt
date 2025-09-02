@@ -4,4 +4,7 @@ pandas-ta
 PySide6
 pyqtgraph
 scikit-learn
+<<<codex/create-trading-prediction-app-5zvi32
 numpy<2
+=======
+>>>> master
