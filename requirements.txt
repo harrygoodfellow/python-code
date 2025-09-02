@@ -1,0 +1,7 @@
+yfinance
+pandas
+pandas-ta
+PySide6
+pyqtgraph
+scikit-learn
+numpy<2
