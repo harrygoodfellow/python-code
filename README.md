@@ -27,3 +27,8 @@ python billys4evr.py
 The app starts with a splash screen while data and indicators load and then
 switches to the main dashboard displaying the latest data and the next predicted
 candle.
+
+> **Note**
+> `pandas-ta` currently requires `numpy` 1.x. If you see an error like
+> `ImportError: cannot import name 'NaN' from 'numpy'`, ensure your environment
+> uses `numpy<2` as specified in `requirements.txt`.
